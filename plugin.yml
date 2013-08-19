@@ -1,0 +1,15 @@
+name: StaticField
+main: com.github.lyokofirelyte.StaticField.DecorativeToasterCozy
+version: 1
+
+commands:
+   forcefield:
+      description: Activate / Deactive ForceField
+      usage: /forcefield
+      permission: forcefield.use
+      permission-message: You are not skilled enough to use this command!
+   ff:
+      description: Activate / Deactive ForceField
+      usage: /ff
+      permission: forcefield.use
+      permission-message: You are not skilled enough to use this command!
